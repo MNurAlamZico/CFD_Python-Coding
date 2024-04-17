@@ -4,7 +4,7 @@ Demonstration of Python coding used in Navier-Stokes equation for inviscid flow 
 
 ![image](https://github.com/MNAZico/CFD_Python-Coding/assets/167157872/cfc14a0e-5c2f-4862-ba10-6cb012ea9faf)
 
-Where,<p>
+Where,
 - u is the velocity of the fluid.
 - t is time.
 - x is position.
